@@ -10,7 +10,9 @@ body {
   background-size: cover;
   backdrop-filter: brightness(0.8);
   color: #333;
+
   overflow: auto;
+
 }
 
 /* Header */
