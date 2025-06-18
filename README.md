@@ -1,7 +1,8 @@
 
-              E-LearnPro - Online Learning Management System
+               E-LearnPro - Online Learning Management System
 
 OVERVIEW
+
 E-LearnPro is a responsive and user-centric Learning Management System (LMS) designed to offer seamless user registration, login, course enrolment, and content interaction. This project involved full-cycle development using HTML, CSS, JavaScript, jQuery, Unix shell scripting, and Git, with Agile project management in Jira.
 1.  User Stories & Sprint Setup (Jira)
     •	Created user stories for registration and login with clear scope and acceptance criteria.
